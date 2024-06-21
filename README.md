@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m currently working on Web Project<br>- 🌱 I’m currently learning IT Bsc(hons)<br>- 🤔 I’m looking for help with Problem Solving<br>- 💬 Ask me about C,C++<br>- 📫 Reach me  : asankasampath200228@gmail.com<br>- 😄 Computer Science mad<br>- ⚡ Learning Tech Fast</p>
+<p align="center">- 🔭 I’m currently working on Web Project<br>- 🌱 I’m currently learning IT Bsc(hons)<br>- 🤔 I’m looking for help with Problem Solving<br>- 💬 Ask me about C,C++<br>- 📫 Reach me  : asankasampath200228@gmail.com<br><br>-⚡ Learning Tech Fast</p>
 
 ###
 
