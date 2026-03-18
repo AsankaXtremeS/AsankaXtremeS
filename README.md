@@ -39,14 +39,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-| **🌐 Frontend** | **⚙️ Backend & Database** | **📱 Mobile** | **💻 Languages** | **🔧 Tools & Design** |
-| :---: | :---: | :---: | :---: | :---: |
-| HTML, CSS, JavaScript, TypeScript, Next.js | Java, Express.js, MongoDB, PostgreSQL, Prisma | Flutter, Kotlin | C, C++ | Git, GitHub, Figma |
-
----
-
 ## 🔗 Connect with Me
 
 <div align="center">
