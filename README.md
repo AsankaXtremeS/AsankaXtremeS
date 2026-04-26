@@ -18,23 +18,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/AsankaXtremeS?tab=repositories">
-    <img
-      style="height: 180px; width:325px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=AsankaXtremeS&theme=apprentice&hide_rank=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/AsankaXtremeS?tab=repositories">
-    <img
-      style="height: 180px; width:325px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsankaXtremeS&size_weight=0.05&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270" />
-  </a>
-</div>
-
 <br>
 
 ---
